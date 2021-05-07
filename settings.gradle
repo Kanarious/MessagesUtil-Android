@@ -1,0 +1,3 @@
+rootProject.name='MessagesUtilExample'
+include ':app'
+include ':messagesutil'
